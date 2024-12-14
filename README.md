@@ -10,8 +10,4 @@ Este projeto foi criado com fins educacionais, como uma forma de entender como f
 
 **Nota**: Este projeto é totalmente seguro e não envia ou armazena dados pessoais.
 
-## Como Usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/usuario/facebook-login-clone.git
+## 
